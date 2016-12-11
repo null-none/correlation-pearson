@@ -1,0 +1,6 @@
+*.pyc
+.pypirc
+*.egg-info
+dist
+correlation_pearson.egg-info
+dist
